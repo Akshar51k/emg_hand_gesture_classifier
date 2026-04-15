@@ -94,6 +94,9 @@ jupyter notebook
 ## Author
 
 Akshar Khatrani
+
 Carleton University Internship
+
 Project B: Conventional Labeler
+
 Supervisor: Dr. Leonard MacEachern
